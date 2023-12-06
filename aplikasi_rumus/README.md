@@ -1,0 +1,1 @@
+# Implementai Rumus Sederhana
